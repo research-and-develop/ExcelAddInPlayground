@@ -5,7 +5,7 @@ This repository contains C# project that is showing sample VSTO excel add-in imp
 To run this project you need:
 - Visual Studio 2015 (I've used Community Edition);
 - Office Tools For Visual Studio 2015 (which I downloaded from here https://www.visualstudio.com/vs/office-tools/);
-- You need to have installer Office 2013 or 2016;
+- You need to have installed Office 2013 or 2016;
     
 Project Type is **Excel 2013 and 2016 VSTO Add-in**
 
